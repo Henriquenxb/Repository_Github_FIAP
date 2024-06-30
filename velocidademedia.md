@@ -1,0 +1,1 @@
+Simular arquivo de calculo de velocidade media
